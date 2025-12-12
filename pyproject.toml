@@ -3,7 +3,7 @@ name = "jyyslide-md"
 version = "0.1.0"
 description = ""
 authors = [{ name = "zweix123", email = "1979803044@qq.com" }]
-requires-python = "~=3.10"
+requires-python = ">=3.12"
 readme = "README.md"
 dependencies = [
     "requests>=2.28.2,<3",
